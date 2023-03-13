@@ -6,7 +6,7 @@ int main()
 	int num1,num2;
 	printf("Enter two number:");
 	scanf("%d %d",&num1,&num2);
-	switch(op){
+	switch(1){
 		case '+':
 		printf("%d+%d=%d",num1,num2,(num1+num2));
 		case '-':
